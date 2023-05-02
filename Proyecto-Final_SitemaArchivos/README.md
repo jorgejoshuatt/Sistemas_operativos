@@ -4,7 +4,6 @@
 
 Simulación de sistema de archivos.
 Se pueden crear carpetas y archivos (unicamente texto plano)
-[URL del repositorio ](https://github.com/LuisTapiaLml/SistemaArchivos.git)
 
 ---
 
