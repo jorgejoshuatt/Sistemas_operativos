@@ -1,11 +1,11 @@
-# Sistemas Operativos.
+# Sistemas Operativos
 
 Programas y proyecto final realizadas en clase de Sistemas Operativos en la Facultad de Estudios Superiores Aragón.
 
 ## Construido con 🛠️
 
-* Python
-* JSON
+* [Python](https://www.python.org) 🐍
+* JSON 🔑
 
 ## Autores ✒️
 
